@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Buku Resepku</string>
+    <string name="recomendation">Recomendation</string>
+    <string name="drink">Drink</string>
+    <string name="food">Food</string>
+    <string name="cake">Cake</string>
+    <string name="coffee">Coffee</string>
+    <string name="category">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipe">Recipe</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="about">About</string>
+    <string name="dessert">Dessert</string>
+    <string name="seafood">Seafood</string>
+    <string name="tradisional">Tradisional</string>
+    <string name="sarapan">Sarapan</string>
+    <string name="recipe_name">New Recipe</string>
+    <string name="recipe_category">Category</string>
+    <string name="fitur_belum_tersedia">Fitur Belum Tersedia</string>
+</resources>
